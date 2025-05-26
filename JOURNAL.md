@@ -12,6 +12,12 @@ I started and finished the keyboard pcb design!
 
 ![image](https://github.com/user-attachments/assets/7037831e-d955-4b57-9467-cff610d02068)
 
-
-
 **Total time spent: 9h**
+# 5/26/25: Worked on case.
+
+Started making the case for the cyberdeck and also researched carrier board options. 
+
+![image](https://github.com/user-attachments/assets/0118296d-601b-4731-a93b-0705ee914bb0)
+
+
+**Total time spent: 6h**
