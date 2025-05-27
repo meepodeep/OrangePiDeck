@@ -21,3 +21,12 @@ Started making the case for the cyberdeck and also researched carrier board opti
 
 
 **Total time spent: 6h**
+
+# 5/26/25: Worked on case.
+
+Started designing mounts for the components in the case. 
+
+
+![image](https://github.com/user-attachments/assets/702ac819-5953-4837-ad2f-d01a41468133)
+
+**Total time spent: 2h**
