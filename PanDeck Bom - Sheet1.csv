@@ -1,0 +1,24 @@
+Item,Quantity,Total price+Shipping,Use In project,Item Source
+DC-DC converter,x1,$5.30,Convert the battery voltage to 12v,https://www.dfrobot.com/product-2599.html
+Display,x1,$55.19,Be a display,https://www.ebay.com/itm/145841358470?
+Lattepanda Mu Kit,x1,$220.00,Main computer and carrier board and cooling,https://www.dfrobot.com/kit-004.html
+Bms,x1,$1.75,be a bms for the batteries,https://www.aliexpress.us/item/
+18650s ,x8,$29.28,be batteries,https://www.18650batterystore.com/products/samsung-25r-18650?variant=37119890063511
+,,$311.52,,
+Keyboard Parts,,,,
+Keyboard pcb,x5,$35.47,Be a keyboard pcb,JLCPCB
+SER3686CT-ND ,x1,$1.05,Crystal,DigiKey
+ATMEGA32U4-AURCT-ND ,x1,5.39,MCU,DigiKey
+399-C0805C220J5GACTUCT-ND ,x2,$0.20,CAP 22pf,DigiKey
+311-1361-1-ND ,x4,$0.40,CAP .1uf,DigiKey
+311-1365-1-ND ,x1,$0.13,CAP 1uf,DigiKey
+490-12753-1-ND,x1,$0.16,CAP 4.7uf,DigiKey
+RMCF0805JT22R0CT-ND,x2,$0.20,RES 22 OHM,DigiKey
+RMCF0805JT10K0CT-ND,x2,$0.20,RES 10k OHM,DigiKey
+1N4148WTPMSCT-ND ,x69,$4.76,Diode,DigiKey
+EG2531CT-ND ,x1,$0.67,Reset switch,DigiKey
+Gateron Red,x100,$34.40,Be switches,https://www.aliexpress.us/item/3256805905674117
+Keycaps,x80,$14.16,Be keycaps,https://www.aliexpress.us/item/3256807292808339.html?
+Shipping,,$6.99,,
+Tarriff,,$1.29,,
+Total for keyboard components,,$105.47,,
