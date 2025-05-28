@@ -22,7 +22,7 @@ Started making the case for the cyberdeck and also researched carrier board opti
 
 **Total time spent: 6h**
 
-# 5/26/25: Worked on case.
+# 5/27/25: Worked on case.
 
 Started designing mounts for the components in the case. 
 
@@ -30,3 +30,11 @@ Started designing mounts for the components in the case.
 ![image](https://github.com/user-attachments/assets/702ac819-5953-4837-ad2f-d01a41468133)
 
 **Total time spent: 2h**
+# 5/26/25: Tried to make some sort of BOM.
+
+I have been looking for parts for a while now. After making the Bom realized I'm going to have to sacrifice some features to stay in budget. I might try to integrate an old keyboard that I have instead of using the custom PCB I designed. Hopefully I can keep this thing under budget. 
+
+![image](https://github.com/user-attachments/assets/8ddf55c4-ea43-4124-a400-6380d8967145)
+
+
+**Total time spent: 4h**
