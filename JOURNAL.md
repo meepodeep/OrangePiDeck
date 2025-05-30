@@ -38,3 +38,20 @@ I have been looking for parts for a while now. After making the Bom realized I'm
 
 
 **Total time spent: 4h**
+
+
+# 5/27/25: Tried to make some sort of BOM.
+
+I have been looking for parts for a while now. After making the Bom realized I'm going to have to sacrifice some features to stay in budget. I might try to integrate an old keyboard that I have instead of using the custom PCB I designed. Hopefully I can keep this thing under budget. 
+
+![image](https://github.com/user-attachments/assets/8ddf55c4-ea43-4124-a400-6380d8967145)
+
+**Total time spent: 4h**
+# 5/28/25: Changed the concept entirely!
+
+In order to stay under budget, I decided to make a modular system with you being able to hotswap SBC and battery modules in and out of the deck. I mostly just did a lot of CAD.
+
+![image](https://github.com/user-attachments/assets/82f3faba-46bc-4e4c-8aeb-a7794b224f1f)
+
+
+**Total time spent: 9h**
