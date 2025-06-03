@@ -47,7 +47,7 @@ In order to stay under budget, I decided to make a modular system with you being
 
 
 **Total time spent: 9h**
-# 6/2/25
+# 6/2/25: Finished some modules!
 
 I finished the battery module, and i also finished the lattepanda mu module. I started work on the rpi zero module and i added some visual flairs.
 
@@ -57,7 +57,7 @@ I finished the battery module, and i also finished the lattepanda mu module. I s
 
 **Total time spent: 3h**
 
-# 6/3/25
+# 6/3/25: Finished designing!
 
 Today, I started doing alot of finalization steps. I made the pi 5 module, I also have a module template for both the battery and compute now. And I did alot of fine tuning of the mounts and printability of the design. After all of that, I went back and changed the keyboard to use a pi pico to make my life easier when soldering and setting up firmware. The most annoying part of today was just doing all the little touches to make this thing actually be reasonable for others and myself to assemble in real life like adding screw posts and splitting parts in half. 
 
