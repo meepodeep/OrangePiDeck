@@ -47,3 +47,24 @@ In order to stay under budget, I decided to make a modular system with you being
 
 
 **Total time spent: 9h**
+# 6/2/25
+
+I finished the battery module, and i also finished the lattepanda mu module. I started work on the rpi zero module and i added some visual flairs.
+
+![image](https://github.com/user-attachments/assets/46869a4c-569a-45fc-a6e0-af827043bcab)
+![image](https://github.com/user-attachments/assets/2f9eb155-ed1c-4d7e-bab2-d283ca56fe2a)
+![image](https://github.com/user-attachments/assets/935b40a1-8d31-4676-a33c-332529c70b30)
+
+**Total time spent: 3h**
+
+# 6/3/25
+
+Today, I started doing alot of finalization steps. I made the pi 5 module, I also have a module template for both the battery and compute now. And I did alot of fine tuning of the mounts and printability of the design. After all of that, I went back and changed the keyboard to use a pi pico to make my life easier when soldering and setting up firmware. The most annoying part of today was just doing all the little touches to make this thing actually be reasonable for others and myself to assemble in real life like adding screw posts and splitting parts in half. 
+
+![image](https://github.com/user-attachments/assets/82d67c54-2565-46e5-b070-7cef804ce512)
+![image](https://github.com/user-attachments/assets/e66af488-a6f7-47d1-bdc4-219e96a75765)
+![image](https://github.com/user-attachments/assets/e4d64bca-0263-46d8-87f8-4e80d42728ba)
+
+
+**Total time spent: 7h**
+
