@@ -68,3 +68,12 @@ Today, I started doing alot of finalization steps. I made the pi 5 module, I als
 
 **Total time spent: 7h**
 
+# 6/4/25: started docs!
+
+currently working on making instructions to build the project.
+
+Check Readme.md for the progress
+
+**Total time spent: 1h**
+
+
