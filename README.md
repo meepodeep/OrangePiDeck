@@ -23,35 +23,50 @@
   ![image](https://github.com/user-attachments/assets/80697535-dd90-45e4-90ad-57e10585d5e2)
   
 1. Print the pi 5 compute model.
-2. Solder 28awg wire to the 4 USB pins from the Bottom of the USB 2.0 connector on the set of pins closest to the edge of the board.
-3. Remove the casing from the micro HDMI to HDMI adapter.
-4. Press the HDMI into the casing.
-5. Solder the 5v and gnd connections from the gpio to the + and - terminals onto an xt60 connector using 18awg wire. Press the connector into the 5v part of the module.
+2. Assemble the cooler.
+3. Solder 28awg wire to the 4 USB pins from the Bottom of the USB 2.0 connector on the set of pins closest to the edge of the board.
+4. Remove the casing from the micro HDMI to HDMI adapter.
+5. Press the HDMI into the casing.
+6. Solder the 5v and gnd connections from the gpio to the + and - terminals onto an xt60 connector using 18awg wire. Press the connector into the 5v part of the module.
 
   ![Raspberry-Pi-5-Pinout--1](https://github.com/user-attachments/assets/1bf2fb04-5506-45d7-aa4a-e6c779ec7be8)
   
-6. Press the 5v Xt60 into the case.
-7. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side. Ground, Data+, Data-, Vcc.
-8. Press the Magnetic connector into the case.
-9. Screw the pi into the mounting posts with m2 hardware.
+7. Press the 5v Xt60 into the case.
+8. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side. Ground, Data+, Data-, Vcc.
+9. Press the Magnetic connector into the case.
+10. Screw the pi into the mounting posts with m2 hardware.
   - ### Pi zero 2 w
 
 ![image](https://github.com/user-attachments/assets/083dfda2-22cb-4347-8fe5-6b9f540754b6)
 
 1. Print the Pi Zero Compute model.
-2. Decase the USB hub.
-3. Solder 28awg wire to the pins of the USB port at the end of the hub.
-4. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side. Ground, Data+, Data-, Vcc.
-5. Press the Magnetic connector into the case.
-6. Solder the 5V and GND connections from the GPIO to the + and - terminals onto an xt60 connector using 18awg wire.
-7. Press the connector into the 5V part of the module.
+2. Assemble the cooler
+3. Decase the USB hub.
+4. Solder 28awg wire to the pins of the USB port at the end of the hub.
+5. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side. Ground, Data+, Data-, Vcc.
+6. Press the Magnetic connector into the case.
+7. Solder the 5V and GND connections from the GPIO to the + and - terminals onto an xt60 connector using 18awg wire.
+8. Press the connector into the 5V part of the module.
 
 ![j8header-zero](https://github.com/user-attachments/assets/cbbb74f6-314b-48d0-9814-83c6bb143a6f)
 
-8. Decase the mini HDMI adapter on the big HDMI side.
-9. Press the HDMI into the case, and plug in the mini HDMI.
-10. Screw the pi into the mounting posts with m2 hardware.
+9. Decase the mini HDMI adapter on the big HDMI side.
+10. Press the HDMI into the case, and plug in the mini HDMI.
+11. Screw the pi into the mounting posts with m2 hardware.
   - ### Lattepanda mu
+1. Print the Lattepanda compute module.
+2. Assemble the Panda, cooler, and devboard.
+3. Desolder the Barrel jack connector
+5. Solder 28awg wire to the 4 USB pins on the bottom of the furthest USB connector from the edge of the board on the port that is covered by the case.
+
+![image](https://github.com/user-attachments/assets/83d93c86-eff8-4e53-b216-7cfeed9b19e8)
+
+6. Solder 18awg wire to the + and - of the barrel jack and solder them to the + and - of an xt60.
+7. Press that into the 12V supply port on the module.
+8. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side. Ground, Data+, Data-, Vcc.
+9. Desolder the hdmi port and solder 28awg magnet wire or normal wire onto each pin (i know its annoying) and also to the corresponding pins on the board, make these wires long enough to reach the other side of the case.
+10. Press the HDMI port into the case.
+
 - ## Battery
   - Build
   - Wiring
