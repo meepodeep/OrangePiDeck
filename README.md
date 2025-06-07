@@ -3,7 +3,10 @@
   - ### Printing
 1. Print Both main case peices vertically
 2. Print both rear cases flat or vertically if you have elephants foot issues
-3. Assemble both sides of each part together using either superglue, plastic welding, or your preferred method of attaching 3d prints. 
+3. Assemble both sides of each part together using either superglue, plastic welding, or your preferred method of attaching 3d prints.
+4. Use m3 hardware to secure the back on once done with wiring exept leave these 3 holes unscrewed, they are for mounting the modules.
+5. ![image](https://github.com/user-attachments/assets/548c0564-2f25-40dd-abd0-01465cd6cda7)
+
   - ### Wiring
 1. Press fit all of the connectors including, HDMI, XT60, and the magnetic 4pin adafruit connector.
    
@@ -83,7 +86,33 @@
 7.  Solder a 12awg wire to the + terminal on the BMS and to the power switch, solder another 12awg wire to the other side of said switch, and press it into the case.
 8.  ![image](https://github.com/user-attachments/assets/1eb0b9ab-41d2-4184-9acc-a713c4eb69a5)
 9.  Follow the wiring diagram from step 8 in order to complete the battery, then make sure to insulate all of the connections with your preferred method.
-10.  Press both XT60s into their respective ports. 
+10.  Press both XT60s into their respective ports.
+11.  Screw on the top using m3 hardware.
   - ### 4s1p
     - Same as 2p4s, but instead of having cell pairs, just use individual cells. 
 - ## Keyboard
+- ![image](https://github.com/user-attachments/assets/c7141ee0-f2cb-4047-bc69-fcb0b232d4ae)
+
+1. Solder all of the switches onto the PCB.
+2. Solder all of the diodes onto the PCB.
+3. Desolder the pi picos usb port.
+4. Solder the Pi Pico onto the bottom of the PCB.
+5. Solder a 28awg wire onto each of the usb pads.
+6. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side vcc, Data-, Data+, Ground.
+7. Press the magnetic connector into its slot where the compute module clips in.
+8. ![image](https://github.com/user-attachments/assets/405afd9f-6964-4e02-aafa-8ef415c3af7e)
+9. Slide the keyboard in and screw it down using m3 hardware.
+- ## Display
+1. Print both screen mount halves and secure them together using ca plastic welding or your preferred adhesive.
+2. Use double-sided tape to secure the driver board to the back of the screen on the left side, away from the compute module.
+3. Position the screen in the main case and put the scren mount around it aligned with the screw holes.
+4. Screw in m3 hardware from the top of the case in all of the holes.
+- ## Final Assembly
+1. Slot the compute module into the left of the cyberdeck making sure all of the connectors line up.
+2. Use 2 m3 bolts to secure the module in place.
+3. ![image](https://github.com/user-attachments/assets/0535d8d2-0bf3-43aa-a2d4-4d7c89185349)
+4. Slot the battery in, turned off, into the slot on the right, making sure all of the connectors line up.
+5. Screw in one m3 bolt to secure it in place
+6. ![image](https://github.com/user-attachments/assets/bee713ff-f16f-4670-ac2b-776bf844eb31)
+
+
