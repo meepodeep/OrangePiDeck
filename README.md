@@ -6,6 +6,7 @@
 
 ## A modular cyberdeck that supports multiple SBCS.
   - ### Modules
+    - [Exoskeleton](##exoskeleton)
     -   [Compute Modules](##compute) 
         - [Pi 5](###pi-5)
         - [Pi zero 2 w](###pi-zero-2-w)
