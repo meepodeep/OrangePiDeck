@@ -6,16 +6,16 @@
 
 ## A modular cyberdeck that supports multiple SBCS.
   - ### Modules
-    -   [Compute Modules](##Compute) 
-        - [Pi 5](###Pi-5)
-        - [Pi zero 2 w](###Pi-zero-2-w)
-        - [Lattepanda Mu](###Lattepanda-mu)
-    - [Battery Modules](##Battery)
+    -   [Compute Modules](##compute) 
+        - [Pi 5](###pi-5)
+        - [Pi zero 2 w](###pi-zero-2-w)
+        - [Lattepanda Mu](###lattepanda-mu)
+    - [Battery Modules](##battery)
       - [High Capacity](###2p4s)
       - [Low Capacity](###4s1p)
-    - [Keyboard](##Keyboard)
-    - [Display](##Display)
-    - [How to assemble modules](##Final-Assembly)
+    - [Keyboard](##keyboard)
+    - [Display](##display)
+    - [How to assemble modules](##final-assembly)
 ## What is the point
 I set out to make a modular cyberdeck because I wanted to try to design something that doesnt follow the modern design trends of slimmer and less upgradeable and repairable computers. The modular concept helps alleviate these problems by making use of easily replaceable and upgradeable batteries and SBCs. This also solves the problem of many custom projects being very inconvenient to do maintenance on. For example, some people hotglue everything into place, making the project nearly impossible to work on. In this project, however, every part that you would need to replace is easily replaceable with m3 and m2 hardware, securing it in place. 
 
