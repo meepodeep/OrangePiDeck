@@ -76,4 +76,8 @@ Check Readme.md for the progress
 
 **Total time spent: 1h**
 
+# 6/6/25: Worked on docs!
 
+Wrote the assembly guide for the compute modules, batteries, and case. 
+
+**Total time spent: 5h**
