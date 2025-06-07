@@ -6,6 +6,8 @@
 3. Assemble both sides of each part together using either superglue, plastic welding, or your preferred method of attaching 3d prints.
 4. Use m3 hardware to secure the back on once done with wiring exept leave these 3 holes unscrewed, they are for mounting the modules.
 5. ![image](https://github.com/user-attachments/assets/548c0564-2f25-40dd-abd0-01465cd6cda7)
+6. ![image](https://github.com/user-attachments/assets/ff62195c-1aec-4a41-bd82-4093bc74212a)
+
 
   - ### Wiring
 1. Press fit all of the connectors including, HDMI, XT60, and the magnetic 4pin adafruit connector.
