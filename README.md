@@ -1,3 +1,19 @@
+# ModuDeck
+## A modular cyberdeck that supports multiple SBCS.
+  - ### Modules
+    -   [Compute Modules](##Compute) 
+        - [Pi 5](###Pi-5)
+        - [Pi zero 2 w](###Pi-zero-2-w)
+        - [Lattepanda Mu](###Lattepanda-mu)
+    - [Battery Modules](##Battery)
+      - [High Capacity](###2p4s)
+      - [Low Capacity](###4s1p)
+    - [Keyboard](##Keyboard)
+    - [Display](##Display)
+    - [How to assemble modules](##Final-Assembly)
+## What is the point
+I set out to make a modular cyberdeck because I wanted to try to design something that doesnt follow the modern design trends of slimmer and less upgradeable and repairable computers. The modular concept helps alleviate these problems by making use of easily replaceable and upgradeable batteries and SBCs. This also solves the problem of many custom projects being very inconvenient to do maintenance on. For example, some people hotglue everything into place, making the project nearly impossible to work on. In this project, however, every part that you would need to replace is easily replaceable with m3 and m2 hardware, securing it in place. 
+
 # Assembly Instructions
 - ## Exoskeleton
   - ### Printing
@@ -109,6 +125,8 @@
 2. Use double-sided tape to secure the driver board to the back of the screen on the left side, away from the compute module.
 3. Position the screen in the main case and put the scren mount around it aligned with the screw holes.
 4. Screw in m3 hardware from the top of the case in all of the holes.
+5. Plug the HDMI coming from the compute module bay into the display board.
+6. Use 18awg wire to the 12V XT60 from the battery module bay to the power pads on the driver board after desoldering the barrel plug.
 - ## Final Assembly
 1. Slot the compute module into the left of the cyberdeck making sure all of the connectors line up.
 2. Use 2 m3 bolts to secure the module in place.
