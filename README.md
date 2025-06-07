@@ -18,7 +18,7 @@
     - [Display](##display)
     - [How to assemble modules](##final-assembly)
 ## What is the point
-I set out to make a modular cyberdeck because I wanted to try to design something that doesnt follow the modern design trends of slimmer and less upgradeable and repairable computers. The modular concept helps alleviate these problems by making use of easily replaceable and upgradeable batteries and SBCs. This also solves the problem of many custom projects being very inconvenient to do maintenance on. For example, some people hotglue everything into place, making the project nearly impossible to work on. In this project, however, every part that you would need to replace is easily replaceable with m3 and m2 hardware, securing it in place. 
+I set out to make a modular cyberdeck because I wanted to try to design something that doesnt follow the modern design trends of slimmer and less upgradeable and repairable computers. The modular concept helps alleviate these problems by making use of easily replaceable and upgradeable batteries and SBCs. This also solves the problem of many custom projects being very inconvenient to do maintenance on. For example, some people hotglue everything into place, making the project nearly impossible to work on. In this project, however, every part that you would need to replace is easily replaceable with m3 and m2.5 hardware, securing it in place. 
 
 # Assembly Instructions
 - ## Exoskeleton
@@ -61,7 +61,7 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 7. Press the 5v Xt60 into the case.
 8. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side. Ground, Data+, Data-, Vcc.
 9. Press the Magnetic connector into the case.
-10. Screw the pi into the mounting posts with m2 hardware.
+10. Screw the pi into the mounting posts with m2.5 hardware.
   - ### Pi zero 2 w
 
 ![image](https://github.com/user-attachments/assets/083dfda2-22cb-4347-8fe5-6b9f540754b6)
@@ -79,7 +79,7 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 
 9. Decase the mini HDMI adapter on the big HDMI side.
 10. Press the HDMI into the case, and plug in the mini HDMI.
-11. Screw the pi into the mounting posts with m2 hardware.
+11. Screw the pi into the mounting posts with m2.5 hardware.
   - ### Lattepanda mu
 1. Print the Lattepanda compute module.
 2. Assemble the Panda, cooler, and devboard.
