@@ -81,3 +81,9 @@ Check Readme.md for the progress
 Wrote the assembly guide for the compute modules, batteries, and case. 
 
 **Total time spent: 5h**
+
+# 6/7/25: Worked on documentation and bom for every module 😢
+
+Today I did a lot of writing. I wrote the assembly instructions for the remaining parts of the build, and i also wrote the bom with it being seperated to have individual costs for each module. 
+
+**Total time spent: 5h**
