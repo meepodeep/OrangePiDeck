@@ -153,8 +153,9 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 |18awg wire	| x1 |	$13.76 | most wiring |	https://www.amazon.com/Nilight-Electrical-Conductor-Extension-Amplifier/dp/B0CYZPW42Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&gQT=1&th=1 |
 |28awg wire	| x1 |	$7.99 |	Usb wiring |	https://www.amazon.com/Fermerry-Stranded-Silicone-Cables-Electrical/dp/B089CR4SDM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AMHYOXF0C8EDF&gQT=1&th=1 |
 |12awg wire |	x1 |	$3.94 |	Battery wires |	https://www.aliexpress.us/item/3256807129117447.html?spm=a2g0o.productlist.main.3.7ab0a156NrdRf6&algo_pvid=3e03f551-26de-40a9-8a5d-b5bc81856425&algo_exp_id=3e03f551-26de-40a9-8a5d-b5bc81856425-2&pdp_ext_f=%7B%22order%22%3A%223673%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%216.91%213.94%21%21%2149.31%2128.11%21%402101c5b117493323478534303ed134%2112000040296899199%21sea%21US%214381910819%21X&curPageLogUid=HZUS3mRJr7EU&utparam-url=scene%3Asearch%7Cquery_from%3A|
-|Filament	| x1 |	20$ |	be every printed part |	Idk wherever you get filament |
-|Total|| $68.98 |||
+|Filament	| x1 |	$20 |	be every printed part |	Idk wherever you get filament |
+|Nickel strip| x1| $5.69 | build batteries| https://www.amazon.com/MECCANIXITY-Nickel-Battery-Soldering-Welding/dp/B0CVXLLGCQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1NR50YASSZD11&gQT=1&th=1|
+|Total|| $116.42 |||
 ||||||
 |Keyboard Parts	| | | | |	
 |Pi pico |	x1 |	$4 |	drive the keyboard | https://www.adafruit.com/product/4864 |
@@ -184,7 +185,7 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 |mini hdmi to hdmi adapter |	x1 |	$6.99 |	adapt the HDMI |	https://www.amazon.com/Micro-Adapter-Female-Support-Raspberry/dp/B09HS74STL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1NY347U90KP9S&gQT=1 |
 |micro usb to usb a hub	| x1 |	$6.99 |	break out the usb from the pi |	https://vilros.com/products/vilros-microusb-to-usb-4-port-otg-hub-black-great-for-pi-zero?variant=21355443486820&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gQT=1|
 |Cooler	| x1 |	$8.25 |	Cool the pi |	https://www.cytron.io/p-raspberry-pi-zero-2w-heatsink-enclosure-with-dual-fan |
-|Total |	| $31.74 |	| | |	
+|Total |	| $38.73 |	| | |	
 ||||||	
 |Pi 5 Compute | | | | |
 |Pi 5 8gb |	x1 |	$96.98 |	main computer |	https://www.pishop.us/product/raspberry-pi-5-8gb/?searchid=0&search_query=pi+5|
