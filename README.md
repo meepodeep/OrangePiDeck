@@ -17,6 +17,7 @@
     - [Keyboard](##keyboard)
     - [Display](##display)
     - [How to assemble modules](##final-assembly)
+  - [BOM](#bom) 
 ## What is the point
 I set out to make a modular cyberdeck because I wanted to try to design something that doesnt follow the modern design trends of slimmer and less upgradeable and repairable computers. The modular concept helps alleviate these problems by making use of easily replaceable and upgradeable batteries and SBCs. This also solves the problem of many custom projects being very inconvenient to do maintenance on. For example, some people hotglue everything into place, making the project nearly impossible to work on. In this project, however, every part that you would need to replace is easily replaceable with m3 and m2.5 hardware, securing it in place. 
 
@@ -141,4 +142,4 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 5. Screw in one m3 bolt to secure it in place
 6. ![image](https://github.com/user-attachments/assets/bee713ff-f16f-4670-ac2b-776bf844eb31)
 
-
+# BOM
