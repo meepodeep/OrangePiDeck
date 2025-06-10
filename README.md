@@ -122,13 +122,12 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 2. Solder all of the diodes onto the PCB.
 4. Solder the Pi Pico onto the bottom of the PCB.
 5. Use [QMK Configurator](https://docs.qmk.fm/configurator_step_by_step) to configure and flash the board [here](https://config.qmk.fm/#/rart/rart75hs/LAYOUT_ansi_split_bs)
-6. 
-7.  Desolder the pi picos usb port.
-8. Solder a 28awg wire onto each of the usb pads.
-9. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side vcc, Data-, Data+, Ground.
-10. Press the magnetic connector into its slot where the compute module clips in.
-11. ![image](https://github.com/user-attachments/assets/405afd9f-6964-4e02-aafa-8ef415c3af7e)
-12. Slide the keyboard in and screw it down using m3 hardware.
+6.  Desolder the pi picos usb port.
+7. Solder a 28awg wire onto each of the usb pads.
+8. Solder the other ends of the wires coming from the USB to the magnetic connector in this order, from left to right, on the pin side vcc, Data-, Data+, Ground.
+9. Press the magnetic connector into its slot where the compute module clips in.
+10. ![image](https://github.com/user-attachments/assets/405afd9f-6964-4e02-aafa-8ef415c3af7e)
+11. Slide the keyboard in and screw it down using m3 hardware.
 - ## Display
 1. Print both screen mount halves and secure them together using ca plastic welding or your preferred adhesive.
 2. Use double-sided tape to secure the driver board to the back of the screen on the left side, away from the compute module.
