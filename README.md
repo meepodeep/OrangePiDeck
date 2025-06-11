@@ -185,8 +185,8 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 |pi zero 2 w	| x1 |	$16.50 |	Main computer |	https://www.adafruit.com/product/5291 |
 |mini hdmi to hdmi adapter |	x1 |	$6.99 |	adapt the HDMI |	https://www.amazon.com/Micro-Adapter-Female-Support-Raspberry/dp/B09HS74STL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1NY347U90KP9S&gQT=1 |
 |micro usb to usb a hub	| x1 |	$6.99 |	break out the usb from the pi |	https://vilros.com/products/vilros-microusb-to-usb-4-port-otg-hub-black-great-for-pi-zero?variant=21355443486820&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gQT=1|
-|Cooler	| x1 |	$8.25 |	Cool the pi |	https://www.cytron.io/p-raspberry-pi-zero-2w-heatsink-enclosure-with-dual-fan |
-|Total |	| $38.73 |	| | |	
+|Cooler	| x1 |	$6.99 |	Cool the pi |	https://www.amazon.com/Geekworm-Raspberry-Heatsink-Aluminumn-Compatible/dp/B09QMBCXLB?gQT=2 |
+|Total |	| $37.47 |	| | |	
 ||||||	
 |Pi 5 Compute | | | | |
 |Pi 5 8gb |	x1 |	$96.98 |	main computer |	https://www.pishop.us/product/raspberry-pi-5-8gb/?searchid=0&search_query=pi+5|
