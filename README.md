@@ -155,8 +155,9 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 |28awg wire	| x1 |	$7.99 |	Usb wiring |	https://www.amazon.com/Fermerry-Stranded-Silicone-Cables-Electrical/dp/B089CR4SDM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AMHYOXF0C8EDF&gQT=1&th=1 |
 |12awg wire |	x1 |	$3.94 |	Battery wires |	https://www.aliexpress.us/item/3256807129117447.html?spm=a2g0o.productlist.main.3.7ab0a156NrdRf6&algo_pvid=3e03f551-26de-40a9-8a5d-b5bc81856425&algo_exp_id=3e03f551-26de-40a9-8a5d-b5bc81856425-2&pdp_ext_f=%7B%22order%22%3A%223673%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%216.91%213.94%21%21%2149.31%2128.11%21%402101c5b117493323478534303ed134%2112000040296899199%21sea%21US%214381910819%21X&curPageLogUid=HZUS3mRJr7EU&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |Filament	| x1 |	$20 |	be every printed part |	Idk wherever you get filament |
+|Magnetic Connectors| x1 | $$3.67 | Connect usb |https://www.aliexpress.us/item/3256805098127227.html?spm=a2g0o.productlist.main.5.2ae010ecQ0TgsU&algo_pvid=55902741-ef7a-41f4-bcef-df4c2733f685&algo_exp_id=55902741-ef7a-41f4-bcef-df4c2733f685-4&pdp_ext_f=%7B%22order%22%3A%22273%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%213.53%213.53%21%21%2125.20%2125.20%21%402101d9ef17496563895162555efc36%2112000046387602811%21sea%21US%214381910819%21X&curPageLogUid=tgn8R5EbU7zs&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |Nickel strip| x1| $5.69 | build batteries| https://www.amazon.com/MECCANIXITY-Nickel-Battery-Soldering-Welding/dp/B0CVXLLGCQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1NR50YASSZD11&gQT=1&th=1|
-|Total|| $125.42 |||
+|Total|| $129.09 |||
 ||||||
 |Keyboard Parts	| | | | |	
 |Pi pico |	x1 |	$4 |	drive the keyboard | https://www.adafruit.com/product/4864 |
