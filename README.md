@@ -182,10 +182,10 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 |Total | | $32.58 |	| |	
 ||||||
 |Pi zero 2 w compute | | | | |
-|pi zero 2 w	| x1 |	$16.50 |	Main computer |	https://www.adafruit.com/product/5291 |
+|pi zero 2 w	| x1 |	$23.00 |	Main computer |	https://www.adafruit.com/product/5291 |
 |mini hdmi to hdmi adapter |	x1 |	$6.99 |	adapt the HDMI |	https://www.amazon.com/Micro-Adapter-Female-Support-Raspberry/dp/B09HS74STL?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1NY347U90KP9S&gQT=1 |
 | USB hub and pi cooloer	| x1 |	$9.99 |	Cool the pi and breakout usb |	https://www.amazon.com/Raspberry-iUniker-Aluminum-Passive-Adapter/dp/B09XK36QNB/140-2177712-4060064?pd_rd_w=vyCyv&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=MV80K33AW3WARSHK5YW9&pd_rd_wg=EWgEt&pd_rd_r=25190511-4df9-42d1-908e-41de3ecdd1ec&pd_rd_i=B09XK36QNB&psc=1 |
-|Total |	| $33.48 |	| | |	
+|Total |	| $39.98 |	| | |	
 ||||||	
 |Pi 5 Compute | | | | |
 |Pi 5 8gb |	x1 |	$96.98 |	main computer |	https://www.pishop.us/product/raspberry-pi-5-8gb/?searchid=0&search_query=pi+5|
