@@ -178,8 +178,8 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 |DC-DC converter |	x2 |	$10.60 |	Convert the battery voltage to 12v/5v |	https://www.dfrobot.com/product-2599.html |
 |18650s | 	x4 |	$18.59 |	be batteries |	https://www.18650batterystore.com/products/samsung-25r-18650?variant=37119890063511 |
 |Bms |	x1 |	$1.75 |	be a bms for the batteries |	https://www.aliexpress.us/item/ |
-|RA11131121 |	x1 |	$1.06 |	power switch |	https://www.aliexpress.us/item/3256808591861621.html?spm=a2g0o.productlist.main.4.bbaa3f0amP9fEs&aem_p4p_detail=202506110835012802225516499430001432280&algo_pvid=22d13a10-315a-4e88-a7fb-5fc6e3a68f98&algo_exp_id=22d13a10-315a-4e88-a7fb-5fc6e3a68f98-3&pdp_ext_f=%7B%22order%22%3A%22115%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.08%211.06%21%21%2114.86%217.57%21%402101c67a17496561013444578ee284%2112000046629830173%21sea%21US%214381910819%21X&curPageLogUid=AIpxTC6KBWSG&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506110835012802225516499430001432280_1 |
-|Total | | $32.00 |	| |	
+|RA11131121 |	x1 |	$3.26 |	power switch |	https://www.aliexpress.us/item/3256808591861621.html?spm=a2g0o.productlist.main.4.bbaa3f0amP9fEs&aem_p4p_detail=202506110835012802225516499430001432280&algo_pvid=22d13a10-315a-4e88-a7fb-5fc6e3a68f98&algo_exp_id=22d13a10-315a-4e88-a7fb-5fc6e3a68f98-3&pdp_ext_f=%7B%22order%22%3A%22115%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.08%211.06%21%21%2114.86%217.57%21%402101c67a17496561013444578ee284%2112000046629830173%21sea%21US%214381910819%21X&curPageLogUid=AIpxTC6KBWSG&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506110835012802225516499430001432280_1 |
+|Total | | $34.20 |	| |	
 ||||||
 |Pi zero 2 w compute | | | | |
 |pi zero 2 w	| x1 |	$23.00 |	Main computer |	https://www.adafruit.com/product/5291 |
