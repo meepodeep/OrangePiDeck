@@ -148,7 +148,7 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 | Item |	Quantity |	Total price+Shipping | Use In project	| Item Source
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | General |||||			
-| Display |	x1 |	$55.19 |	displays | https://www.ebay.com/itm/145841358470? |
+| Display |	x1 |	$64.19 |	displays | https://www.ebay.com/itm/145841358470? |
 | m3 hardware kit |	x1	| $7.99|	Mount most things	| https://www.amazon.com/Hincell-540pcs-Button-Washers-Stainless/dp/B0D1CV8V9Y?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A8FI3NPCLLLAU&gQT=2&th=1|
 |m2.5 4mm |	x1 |	$1.86 |	mount the pis if you use them |	https://www.aliexpress.us/item/3256805692588351.html?spm=a2g0o.productlist.main.9.70f8PGXgPGXgES&algo_pvid=f41aab01-f6bc-4ebf-8b6a-e709e2d91d9e&algo_exp_id=f41aab01-f6bc-4ebf-8b6a-e709e2d91d9e-8&pdp_ext_f=%7B%22order%22%3A%22141%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.63%212.63%21%21%212.63%212.63%21%402101c67a17493315079284241e4c88%2112000034678326960%21sea%21US%214381910819%21X&curPageLogUid=wPZG0AeXcYEt&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |18awg wire	| x1 |	$13.76 | most wiring |	https://www.amazon.com/Nilight-Electrical-Conductor-Extension-Amplifier/dp/B0CYZPW42Q?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&gQT=1&th=1 |
@@ -156,7 +156,7 @@ I set out to make a modular cyberdeck because I wanted to try to design somethin
 |12awg wire |	x1 |	$3.94 |	Battery wires |	https://www.aliexpress.us/item/3256807129117447.html?spm=a2g0o.productlist.main.3.7ab0a156NrdRf6&algo_pvid=3e03f551-26de-40a9-8a5d-b5bc81856425&algo_exp_id=3e03f551-26de-40a9-8a5d-b5bc81856425-2&pdp_ext_f=%7B%22order%22%3A%223673%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%216.91%213.94%21%21%2149.31%2128.11%21%402101c5b117493323478534303ed134%2112000040296899199%21sea%21US%214381910819%21X&curPageLogUid=HZUS3mRJr7EU&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |Filament	| x1 |	$20 |	be every printed part |	Idk wherever you get filament |
 |Nickel strip| x1| $5.69 | build batteries| https://www.amazon.com/MECCANIXITY-Nickel-Battery-Soldering-Welding/dp/B0CVXLLGCQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1NR50YASSZD11&gQT=1&th=1|
-|Total|| $116.42 |||
+|Total|| $125.42 |||
 ||||||
 |Keyboard Parts	| | | | |	
 |Pi pico |	x1 |	$4 |	drive the keyboard | https://www.adafruit.com/product/4864 |
