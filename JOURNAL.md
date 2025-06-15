@@ -88,3 +88,28 @@ Wrote the assembly guide for the compute modules, batteries, and case.
 Today I did a lot of writing. I wrote the assembly instructions for the remaining parts of the build, and i also wrote the bom with it being seperated to have individual costs for each module. 
 
 **Total time spent: 5h**
+
+# 6/11/25: edited some bits on the bom bc the prices changed. 
+
+The display price changed due to going off sale, and I also ordered all the parts.
+
+**Total time spent: 2h**
+
+# 6/12/25: Edited the pi zero compute module
+
+When I was test fitting something was off (i dont remember i forgot to log this day this is retroactive looking at commits) so I edited the 3d model.
+
+**Total time spent 1h**
+
+# 6/13/25: Edited ports.
+
+Every port on the model was the wrong size, so nothing fit. I changed all of them to fit with measurements from the components that arrived today. Then I re printed and rebuilt it again. 
+
+**Total time spent 5h**
+
+# 6/14/2025 I HATE RASPBERRY PI OS!!!!
+
+Ok so today I was just messing with linux to try to get a pi zero to do anything useful on the desktop. I have realized that this will be a command line machine until I can build a more useful compute module. I also started building stuff with the new HDMI slots and mounted the ports. 
+
+**Total time spent 6h**
+
