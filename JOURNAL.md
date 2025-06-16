@@ -113,3 +113,9 @@ Ok so today I was just messing with linux to try to get a pi zero to do anything
 
 **Total time spent 6h**
 
+#6/15/2025 I updated all the xt60 mounts to fit the connectors.
+
+As the title says i edited the 3d model to fit the xt60s better.
+
+**total time spent 2h**
+
